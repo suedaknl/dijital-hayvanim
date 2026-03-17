@@ -15,7 +15,7 @@ Uygulamanın can alıcı özelliklerini ve oynanışını izlemek için:
 👉 [YouTube Tanıtım Videosunu İzle](https://youtube.com/shorts/QBzV7F-grwE?feature=share)
 
 ## 📲 APK
-Bu proje bir Expo projesidir. Uygulamayı cihazınızda test etmek için projeyi bilgisayarınıza indirip npx expo start komutuyla çalıştırdıktan sonra Expo Go uygulaması aracılığıyla QR kodu taratabilirsiniz.
+sha256:e485d819cd40b882e444c00f9abbd45583578c39e49f25e784a8e26d80b4a1ee
 
 ## 🛠️ Kurulum ve Çalıştırma
 Uygulamayı kendi bilgisayarınızda çalıştırmak için:
