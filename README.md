@@ -16,8 +16,7 @@ Uygulamanın can alıcı özelliklerini ve oynanışını izlemek için:
 
 ## 📲 APK İndirme
 Uygulamanın Android cihazlarda test edilebilir hali:
-👉 [Buraya Tıklayarak APK İndir](GitHub_Repo_Linkin/raw/main/app-release.apk) 
-*(Not: Repo içine APK dosyanı yüklediğinde bu linki güncellemelisin)*
+👉 
 
 ## 🛠️ Kurulum ve Çalıştırma
 Uygulamayı kendi bilgisayarınızda çalıştırmak için:
