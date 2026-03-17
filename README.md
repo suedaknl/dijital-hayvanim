@@ -15,7 +15,7 @@ Uygulamanın can alıcı özelliklerini ve oynanışını izlemek için:
 👉 [YouTube Tanıtım Videosunu İzle](https://youtube.com/shorts/QBzV7F-grwE?feature=share)
 
 ## 📲 APK
-sha256:e485d819cd40b882e444c00f9abbd45583578c39e49f25e784a8e26d80b4a1ee
+[sha256:e485d819cd40b882e444c00f9abbd45583578c39e49f25e784a8e26d80b4a1ee](https://github.com/suedaknl/dijital-hayvanim/releases/download/v1.0.0/dijital-hayvanim.apk)
 
 ## 🛠️ Kurulum ve Çalıştırma
 Uygulamayı kendi bilgisayarınızda çalıştırmak için:
